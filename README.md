@@ -1,11 +1,6 @@
-# DATA-ANALYST-PORTFOLIO
-# 📊 Favour Ojiokpota's Data Analysis Portfolio
-
+# DATA-ANALYTICS-PORTFOLIO
 Welcome! I'm **Favour Ojiokpota**, a data analyst with a background in nursing, passionate about transforming raw data into meaningful stories especially in the healthcare and lifestyle domains. This portfolio showcases projects that demonstrate my skills in Python, SQL, Excel, Power BI, and data storytelling.
-
-## About Me
-
-As a trained nurse and aspiring data analyst, I bring a unique blend of clinical intuition and analytical thinking. Whether I'm analyzing patient outcomes, customer trends, or social metrics, my goal is always the same: **use data to improve real-world decisions**.
+As a trained nurse and data analyst, I bring a unique blend of clinical intuition and analytical thinking. Whether I'm analyzing patient outcomes, customer trends, or social metrics, my goal is always the same, which is to **use data to improve real-world decisions**.
 
 ## Core Skills
 
