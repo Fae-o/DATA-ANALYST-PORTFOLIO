@@ -27,7 +27,7 @@ Each project in this portfolio includes:
 - **Insights or Recommendations**
 
 ## 📌 Disclaimer
-Some projects use **public datasets** for demonstration and learning purposes only. All healthcare-related analysis respects confidentiality and ethical handling of information.
+Some projects use **public datasets** for demonstration purpose only. All healthcare-related analysis respects confidentiality and ethical handling of information.
 
 _Thank you for visiting my portfolio!_
 
