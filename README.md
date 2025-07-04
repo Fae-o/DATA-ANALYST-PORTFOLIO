@@ -14,7 +14,7 @@ As a trained nurse and data analyst, I bring a unique blend of clinical intuitio
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | 🔹 [Creating a DataFrame & Exporting CSV](https://github.com/fae-o/Creating-DataFrame-CSV) | Beginner project showing how to create a dataset with pandas and export it | Python, pandas, Jupyter Notebook |
-| 🔹 *Coming Soon: EDA on Healthcare Access* | Explore patient access patterns using public datasets | Python, matplotlib |
+| 🔹 EDA on Restaurants Revenue | Explore different restaurants and their revenue generated | Python, matplotlib |
 | 🔹 *Coming Soon: Power BI Dashboard – AdventureWorks* | Sales performance dashboard with filters & KPIs | Power BI, DAX |
 | 🔹 *Coming Soon: SQL Project – Clinic Visits Analysis* | SQL queries analyzing appointment data | SQL, PostgreSQL |
 
