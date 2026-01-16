@@ -4,7 +4,7 @@ As a trained nurse and data analyst, I bring a unique blend of clinical intuitio
 
 ## Core Skills
 
-- **Programming & Analysis**: Python (pandas, matplotlib), SQL, Excel
+- **Analysis**: Python (pandas, matplotlib), SQL, Excel
 - **Data Visualization**: Power BI
 - **Tools**: Jupyter Notebook, VS Code 
 - **Soft Skills**: Problem-solving, communication, insight presentation and reports
